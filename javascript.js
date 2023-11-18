@@ -69,7 +69,12 @@ console.log(numfor)
 //     console.log(i)
 // }
 
-
+//tabuada
+// const numeroDigitado = Number(prompt("Digite um número"))
+// for(let i = 1; i <= 10; i++){
+//     const resultado = i * numeroDigitado
+//     console.log(`${i} * ${numeroDigitado} = ${resultado}`  )
+// }
 
 //QUESTÃO DE AULA
 
